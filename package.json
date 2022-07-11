@@ -1,0 +1,29 @@
+{
+  "name": "project-map",
+  "version": "1.0.0",
+  "description": "Generates a quick visual overview of your project providing pictorial views (maps) of file and folder names, file and folder size, file and folder structure, component structure, dependency graph (assets), and extraneous file tracking.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onePeterCollins/project-map.git"
+  },
+  "keywords": [
+    "visual",
+    "overview",
+    "structure",
+    "files",
+    "folders",
+    "components",
+    "dependency",
+    "graph"
+  ],
+  "author": "Peter Collins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onePeterCollins/project-map/issues"
+  },
+  "homepage": "https://github.com/onePeterCollins/project-map#readme"
+}
